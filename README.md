@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="60%" src="https://github.com/marshalog/marshalimg/blob/main/sung-jinwoo-dragon.jpg" alt="Banner"/>
+  <img width="60%" src="https://private-user-images.githubusercontent.com/62324148/460346448-a7276d4b-2468-45c0-b84a-10206fb8896b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEyMjUyMjUsIm5iZiI6MTc1MTIyNDkyNSwicGF0aCI6Ii82MjMyNDE0OC80NjAzNDY0NDgtYTcyNzZkNGItMjQ2OC00NWMwLWI4NGEtMTAyMDZmYjg4OTZiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI5VDE5MjIwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NDNjY2I1NWJjM2UwZWNjNzFjNzE3ZWE1MDc0YTFiYmIzZTYyYWViOTJlNmYyM2IxNDJmNWI0ODcxNTMxODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.W8nUf_JYyPTC9VcFllRKU1pIgjLiMwUINwQupa0c-9Q" alt="Banner"/>
 </div>
 
 <!-- Typing SVG -->
@@ -23,7 +23,7 @@
 ## About Me
 
 <p align="left">
-  <img align="right" alt="JPG" src="https://github.com/marshalog/marshalimg/blob/main/1236172.jpg" width="400" height="310" />
+  <img align="right" alt="JPG" src="https://private-user-images.githubusercontent.com/62324148/460346381-99404ea1-c76c-4e26-ab36-8c6916c08cd3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEyMjUxNzcsIm5iZiI6MTc1MTIyNDg3NywicGF0aCI6Ii82MjMyNDE0OC80NjAzNDYzODEtOTk0MDRlYTEtYzc2Yy00ZTI2LWFiMzYtOGM2OTE2YzA4Y2QzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI5VDE5MjExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1NzUzOGU5ZTFkYjk0OWE3NGFlMWNiZjYzNThjOWJiM2M3MGUzZTc5MWQ3YWQ3NWZkYzNkODE4N2Q5Mjc1NDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FW_GPlvVMhXGcyXWK3pW0DjkPdVKIzuuT4BY2o2Oh-U" width="400" height="310" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="25" height="25" /> Name: <span style="color: #b30000;">**soolog**</span>
