@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/marshalog/marshalimg/blob/main/sung-jinwoo-dragon.jpg" alt="Banner"/>
+  <img width="60%" src="https://github.com/marshalog/marshalimg/blob/main/sung-jinwoo-dragon.jpg" alt="Banner"/>
 </div>
 
 <!-- Typing SVG -->
