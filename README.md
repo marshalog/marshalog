@@ -55,13 +55,13 @@
 
 <p align="center">
   <!--<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soolognz&hide_border=true&border_radius=11&bg_color=880808&title_color=000000&text_color=000000" />-->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=soolognz&hide_border=true&border_radius=11&title_color=880808&text_color=880808&&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=soolognz&hide_border=true&background=0D1117&currStreakNum=880808&sideNums=880808&currStreakLabel=880808&sideLabels=880808&dates=FFFFFF&fire=ffdf00&ring=880808" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marshalog&hide_border=true&border_radius=11&title_color=880808&text_color=880808&&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marshalog&hide_border=true&background=0D1117&currStreakNum=880808&sideNums=880808&currStreakLabel=880808&sideLabels=880808&dates=FFFFFF&fire=ffdf00&ring=880808" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soolognz&layout=compact&hide_border=true&bg_color=0D1117&title_color=880808&text_color=FFFFFF" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soolognz&theme=github_dark" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshalog&layout=compact&hide_border=true&bg_color=0D1117&title_color=880808&text_color=FFFFFF" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marshalog&theme=github_dark" />
 </p>
 
 ## 🏆 GitHub Trophies
